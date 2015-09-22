@@ -29,15 +29,15 @@
   </scm>
   <dependencies>
     <dependency>
-      <groupId>xyz.shipdream</groupId>
-      <artifactId>android-mvc-controller</artifactId>
-      <version>1.2.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>22.2.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>xyz.shipdream</groupId>
+      <artifactId>android-mvc-controller</artifactId>
+      <version>1.2.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
